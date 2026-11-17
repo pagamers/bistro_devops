@@ -1,0 +1,1 @@
+As comandas após 30 pedidos comensal a desaparecer o que significa que se tiver mas de 30 pedidos o que ainda estão em espera podem sumir antes de ser entregues.
